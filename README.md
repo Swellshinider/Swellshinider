@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eduardo</h1>
 <h3 align="center">A developer passionate about technology.</h3>
 
-- 🔭 I’m currently working on [MathAdditioanl](https://github.com/OnlyEduardo/MathAdditional)
+- 🔭 I’m currently working on [MathAdditional](https://github.com/OnlyEduardo/MathAdditional)
 
 - 👨‍💻 All of my projects are available at [OnlyEduardo](https://github.com/OnlyEduardo)
 
