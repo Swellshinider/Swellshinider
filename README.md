@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eduardo</h1>
 <h3 align="center">A developer passionate about technology.</h3>
 
-- 🔭 I’m currently working on [Loja-de-Instrumentos-do-Rick](https://github.com/OnlyEduardo/Loja-de-Instrumentos-do-Rick)
+- 🔭 I’m currently working on [Li-Player-Music](https://github.com/OnlyEduardo/Li-Player-Music)
 
 - 👨‍💻 All of my projects are available at [OnlyEduardo](https://github.com/OnlyEduardo)
 
