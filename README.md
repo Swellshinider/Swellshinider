@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Eduardo</h1>
+<h1 align="center">Hi, I'm Eduardo</h1>
 <h3 align="center">A developer passionate about technology.</h3>
 
-- 🔭 I’m currently working on [Li-Player-Music](https://github.com/OnlyEduardo/Li-Player-Music)
+- 🔭 I’m currently working on [Vocxi](https://github.com/OnlyEduardo/Vocxi-AV)
 
 - 👨‍💻 All of my projects are available at [OnlyEduardo](https://github.com/OnlyEduardo)
 
