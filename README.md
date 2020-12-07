@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://twitter.com/eduardo_r_leal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="eduardo_r_leal" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/eduardo-ribeiro-leal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="eduardo-ribeiro-leal" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/only a programmer" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="only a programmer" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/OnlyaprogrammerYT" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="only a programmer" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
