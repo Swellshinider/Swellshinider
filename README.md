@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Eduardo</h1>
 <h3 align="center">A developer passionate about technology.</h3>
 
-- 🔭 I’m currently working on [Master Gadgets](https://github.com/OnlyEduardo/Master-Gadgets)
+<!-- - 🔭 I’m currently working on [Master Gadgets](https://github.com/OnlyEduardo/Master-Gadgets) -->
 
 - 👨‍💻 All of my projects are available at [OnlyEduardo](https://github.com/OnlyEduardo)
 
