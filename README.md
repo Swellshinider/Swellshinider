@@ -5,13 +5,9 @@
 
 - 👨‍💻 All of my projects are available at [OnlyEduardo](https://github.com/OnlyEduardo)
 
-- 📝 I regulary write articles on [myBlog](https://www.eduardo-ribeiro-leal.com/news)
-
 - 💬 Ask me about **Java, C# and Python.**
 
 - 📫 How to reach me **eduardoleal.contact@gmail.com**
-
-- 📄 Know about my experiences [Portfólio](https://www.eduardo-ribeiro-leal.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
