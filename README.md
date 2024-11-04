@@ -2,8 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swellshinider&label=Profile%20views&color=0e75b6&style=flat" alt="swellshinider" /> </p>
 
-- 💬 Currently working on [Genesis Consulting](https://www.genesisconsulting.com/)
-- 🫡 Current personal project [LealPassword](https://github.com/Swellshinider/LealPassword)
+- 🫡 Currently working on [LealForms](https://github.com/LealForms/LealForms) project
 - 📫 How to reach me **eduardoleal.contact@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
