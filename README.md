@@ -12,7 +12,7 @@
 <a href="https://instagram.com/edu_r_leal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="edu_r_leal" height="30" width="40" /></a>
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=swellshinider)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Swellshinider)](https://git.io/streak-stats)
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=swellshinider&show_icons=true&locale=en" alt="swellshinider" />
