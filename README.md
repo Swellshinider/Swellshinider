@@ -28,19 +28,20 @@
 
 <h2>🫡 Current working on projects:</h2>
 
-<div style="display: flex; flex-direction: column;">
+<div style="display: flex; flex-direction: row;">
+
   <a href="https://github.com/Swellshinider/M3U8SharpDownloader">
-    <img align="center" height=150 src="https://github-readme-stats.vercel.app/api/pin/?username=swellshinider&repo=M3U8SharpDownloader&show_owner=true&theme=radical" />
+    <img align="center" width=500 src="https://github-readme-stats.vercel.app/api/pin/?username=swellshinider&repo=M3U8SharpDownloader&show_owner=true&theme=radical" />
   </a>
   
-  <a href="https://github.com/LealForms/LealForms">
-    <img align="center" height=150 src="https://github-readme-stats.vercel.app/api/pin/?username=LealForms&repo=LealForms&show_owner=true&theme=radical" />
+  <a href="https://github.com/LealForms/LealForms"> 
+    <img align="center" width=500 src="https://github-readme-stats.vercel.app/api/pin/?username=LealForms&repo=LealForms&show_owner=true&theme=radical" />
   </a>
 </div>
 
 <h2>😎 My stats:</h2>
 
 <div style="display: flex; flex-direction: row;">
- <img height=200 class="img" src="https://github-readme-stats.vercel.app/api?username=swellshinider&show_icons=true&theme=radical" />
- <img height=200 class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swellshinider&theme=radical&layout=compact" />
+ <img width=500 class="img" src="https://github-readme-stats.vercel.app/api?username=swellshinider&show_icons=true&theme=radical" />
+ <img width=500 class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swellshinider&theme=radical&layout=compact" />
 </div>
