@@ -8,7 +8,7 @@
 
 <h2>🫣 Connect with me:</h2>
 <div style="display: flex; flex-direction: column;"> 
-  <a href="https://linkedin.com/in/eduardo-ribeiro-leal" target="blank">
+  <a href="https://www.linkedin.com/in/er-leal/" target="blank">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-Eduardo%20Leal-blue?logo=Linkedin&logoColor=blue&labelColor=black" alt="LinkedIn" />
   </a>
   <a href="mailto:eduardoleal.contact@gmail.com" target="blank">
