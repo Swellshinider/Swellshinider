@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Eduardo Leal 👋</h1>
+<h1 align="center">Hi, I'm Eduardo Leal, aka 'Swellshinider'.</h1>
 
 <div style="display: flex; flex-direction: row;"> 
   <a href="https://github.com/Swellshinider" target="blank">
