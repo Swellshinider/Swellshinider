@@ -41,7 +41,7 @@
 <h2>😎 My stats:</h2>
 
 <div style="display: flex; flex-direction: row;">
- <img width=500 class="img" src="https://streak-stats.demolab.com/?user=swellshinider&show_icons=true&theme=radical" alt="Streak" />
+ <img width=500 class="img" src="https://streak-stats.demolab.com/?user=swellshinider&show_icons=true&theme=radical&hide_border=true" alt="Streak" />
  <img width=500 class="img" src="https://github-readme-stats.vercel.app/api?username=swellshinider&show_icons=true&theme=radical" alt="Rank" />
  <img width=500 class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swellshinider&theme=radical&layout=compact" alt="Top Langs" />
 </div>
