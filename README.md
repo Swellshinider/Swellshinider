@@ -33,8 +33,8 @@
   <a href="https://github.com/LealForms"> 
     <img align="center" width=500 src="https://github-readme-stats.vercel.app/api/pin/?username=LealForms&repo=LealForms&show_owner=true&theme=radical" />
   </a>
-  <a href="https://github.com/Swellshinider/LealLogger"> 
-    <img align="center" width=500 src="https://github-readme-stats.vercel.app/api/pin/?username=Swellshinider&repo=LealLogger&show_owner=true&theme=radical" />
+  <a href="https://github.com/Swellshinider/EasyArguments"> 
+    <img align="center" width=500 src="https://github-readme-stats.vercel.app/api/pin/?username=Swellshinider&repo=EasyArguments&show_owner=true&theme=radical" />
   </a>
 </div>
 
