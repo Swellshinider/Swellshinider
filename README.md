@@ -1,4 +1,5 @@
-<h1 align="center">I'm Eduardo Leal (Swellshinider).</h1>
+<div  align="center">
+<h1>Hello ✌️. I'm Eduardo Leal</h1>
 
 <div style="display: flex; flex-direction: row;"> 
   <a href="https://github.com/Swellshinider" target="blank">
@@ -44,4 +45,6 @@
  <img width=500 class="img" src="https://github-readme-streak-stats-nine-xi.vercel.app?user=Swellshinider&theme=radical&date_format=j%20M%5B%20Y%5D" alt="Streak" />
  <img width=500 class="img" src="https://github-readme-stats.vercel.app/api?username=swellshinider&show_icons=true&theme=radical" alt="Rank" />
  <img width=500 class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swellshinider&theme=radical&layout=compact" alt="Top Langs" />
+</div>
+
 </div>
