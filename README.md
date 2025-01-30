@@ -27,7 +27,7 @@
   </a>
 </div>
 
-<h2>🫡 Current working on:</h2>
+<h2>🫡 Currently working on:</h2>
 
 <div style="display: flex; flex-direction: row;">
 
